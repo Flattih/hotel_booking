@@ -1,0 +1,1 @@
+enum transition { map, list }
