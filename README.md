@@ -3,14 +3,10 @@
 A new Flutter application.
 
 ## Getting Started
+[Design](https://uigarage.net/ui-kit/hotelify-hotel-booking-app-for-figma/)
 
-This project is a starting point for a Flutter application.
+- It works fine on phones and tablets.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+https://user-images.githubusercontent.com/85228645/150524474-63797aad-503c-4b30-b3d9-fb7f4f95b85a.mp4
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
